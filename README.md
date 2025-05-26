@@ -4,11 +4,14 @@
 
 ---
 
-[![brenorocha1's Stats](https://github-readme-stats.vercel.app/api?username=brenorocha1&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&border_radius=12)](https://github.com/brenorocha1)
 
-[![brenorocha1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brenorocha1&theme=rose_pine&show_icons=true&hide_border=true&layout=compact&border_radius=12)](https://github.com/brenorocha1)
 
-[![brenorocha1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=brenorocha1&theme=rose_pine&hide_border=true&border_radius=12)](https://github.com/brenorocha1)
+![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&border_radius=12&custom_title=Estatísticas+de+Breno+Rocha)
+
+![Fake Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&theme=rose_pine&layout=compact&hide_border=true&border_radius=12&custom_title=Linguagens+Favoritas)
+
+![Fake Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=rose_pine&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&custom_title=Contribuições+Seguidas)
+
 
 ---
 
