@@ -1,18 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&size=24&pause=1000&color=99CBD5&center=true&vCenter=true&random=true&width=600&lines=Olá%2C+eu+sou+Breno+Rocha!;Desenvolvedor+de+soluções+empresarial;Amante+de+tecnologia%2C+automação+e+carros!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&size=24&pause=1000&color=99CBD5&center=true&vCenter=true&random=true&width=600&lines=Olá%2C+eu+sou+Breno+Rocha!;Criador+de+soluções+digitais.;Amante+de+carros+%2C+tecnologia+e+inovação.)](https://git.io/typing-svg)
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&custom_title=Estatísticas+de+Breno+Rocha)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&theme=rose_pine&layout=compact&hide_border=true&border_radius=12&custom_title=Linguagens+Favoritas+de+Breno&langs_count=8)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=rose_pine&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&custom_title=🔥+Streak+de+999+Dias)
 
-![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&border_radius=12&custom_title=Estatísticas+de+Breno+Rocha&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues_resolved)
-
-![Fake Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&theme=rose_pine&layout=compact&hide_border=true&border_radius=12&custom_title=Linguagens+Favoritas)
-
-![Fake Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=rose_pine&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&custom_title=Contribuições+Seguidas)
-
-
----
+![Top GitHub User](https://img.shields.io/badge/TOP%201%25%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
+
