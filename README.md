@@ -6,7 +6,7 @@
 
 
 
-![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&border_radius=12&custom_title=Estatísticas+de+Breno+Rocha)
+![Fake GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs&border_radius=12&custom_title=Estatísticas+de+Breno+Rocha&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues_resolved)
 
 ![Fake Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&theme=rose_pine&layout=compact&hide_border=true&border_radius=12&custom_title=Linguagens+Favoritas)
 
