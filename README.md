@@ -4,7 +4,8 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&custom_title=Estatísticas+de+Breno+Rocha)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenoRocha1&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&custom_title=Estatísticas+de+Breno+Rocha)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRocha1&theme=rose_pine&layout=compact&hide_border=true&border_radius=12&custom_title=Linguagens+Favoritas+de+Breno&langs_count=8)
 
