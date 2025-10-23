@@ -6,7 +6,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=octocat&theme=rose_pine&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&custom_title=Estatísticas+de+Breno+Rocha)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&theme=rose_pine&layout=compact&hide_border=true&border_radius=12&custom_title=Linguagens+Favoritas+de+Breno&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenohdev&theme=rose_pine&layout=compact&hide_border=true&border_radius=12&custom_title=Linguagens+Favoritas+de+Breno&langs_count=8)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=rose_pine&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&custom_title=🔥+Streak+de+999+Dias)
 
