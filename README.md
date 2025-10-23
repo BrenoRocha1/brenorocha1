@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&size=24&pause=1000&color=99CBD5&center=true&vCenter=true&random=true&width=600&lines=Olá%2C+eu+sou+Breno+Rocha!;Criador+de+soluções+Empresariais.;Amante+de+%2C+tecnologia+e+inovação.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&size=24&pause=1000&color=99CBD5&center=true&vCenter=true&random=true&width=600&lines=Olá+eu+sou+Breno+Rocha!;Criador+de+soluções+Empresariais.;Amante+de+%2C+tecnologia+e+inovação.)](https://git.io/typing-svg)
 
 ![Top GitHub User](https://img.shields.io/badge/TOP%201%25%20GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)
 
