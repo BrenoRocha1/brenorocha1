@@ -12,6 +12,5 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=rose_pine&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&custom_title=🔥+Streak+de+999+Dias)
 
-
 </div>
 
