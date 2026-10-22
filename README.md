@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BrenoRocha1&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/BrenoRocha1?style=for-the-badge&color=302b63&labelColor=0f0c29&logo=github" />
 </p>
 
 ---
@@ -40,19 +39,10 @@ user:
 
 ---
 
-### `> stats --show`
+### `> langs --top`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrenoRocha1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&icon_color=00f5d4&text_color=c9d1d9&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRocha1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BrenoRocha1&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BrenoRocha1&bg_color=0f0c29&color=00f5d4&line=302b63&point=00f5d4&area=true&area_color=302b63&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoRocha1&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5d4&text_color=c9d1d9&custom_title=Linguagens%20mais%20usadas" />
 </p>
 
 ---
@@ -64,13 +54,6 @@ user:
 </p>
 
 ---
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrenoRocha1/brenorocha1/output/github-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/BrenoRocha1/brenorocha1/output/github-snake.svg" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:302b63,100:0f0c29&height=120&section=footer" />
